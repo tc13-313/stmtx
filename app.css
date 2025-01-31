@@ -1,0 +1,13 @@
+/* Core theme CSS */
+@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+.ns-root {
+  --primary-color: #4CAF50;
+  --secondary-color: #757575;
+  --background-color: #F5F5F5;
+  --text-color: #212121;
+}
+
+.page {
+  background-
